@@ -3551,7 +3551,7 @@ Value (string):
 ```
 {
   "policies": {
-    "PSFjs": {
+    "PDFjs": {
       "Enabled": true | false,
       "EnablePermissions": true | false
     }
